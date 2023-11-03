@@ -1,8 +1,5 @@
-# Add/Delte Names CRUD Application PHP
+# Welcome!
+Hi! My name is Vedanth Kallakuri, and I am computer science student at the University of Michigan College of Engineering.
+This repository holds my projects and what I've learned from them.
 
-## About
-This simple webpage allows the user to add, delete, and edit names as they get added to a database.
-
-## Skills
-- PHP/MYSQL
-- CRUD - create, read, update, delete in PHP
+Here is my personal website: https://vedanthkallakuri.github.io/main/PersonalWebsite/index.html
